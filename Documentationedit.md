@@ -43,7 +43,7 @@ The variables are used to determine which character the player and computer play
 | Aria Mottaghi  | Kyle Roehrs    | Andrew Smith   |  Reed Wilson     |
 | Eric Coursol   |                | Bethany Tooley | Dillon Hallex  |
 | Sarah Lindsey  |                | Daniel Howden  |                |
-|                |                | Eric Coursol   |                |
+| Fares Ibrahim  |                | Eric Coursol   |                |
 
 
 ###### What the code does  
@@ -68,6 +68,8 @@ Daniel Howden
 Eric Coursol
 
 Sarah Lindsey
+
+Fares Ibrahim
 ###### Markdown Writers
 Shane Wawrak
 
